@@ -19,3 +19,14 @@ The initial implementation uses the common modern Switch Pia Register response. 
 ## First live connection
 
 Confirmed on production: signed Nextendo login, secure Register, NAT endpoint replacement, AutoMatchmakeWithParam, CreateMatchmakeSessionWithParam and OpenParticipation. User reached the multiplayer hosting lobby. Ranking2 PutCommonData (0x7A.3) was initially unregistered; the shared Ranking2 store handler is now wired in. A second player joining and starting a campaign remains unverified.
+
+## Disclaimer
+
+This server ships **no** Nintendo code, keys, or copyrighted assets. It is an independent
+reimplementation for use with a community-run replacement service, not affiliated with, endorsed by,
+or associated with Nintendo or the game's publisher.
+
+## License
+
+Released under the **[PolyForm Shield License 1.0.0](LICENSE.md)**, source-available: read, use,
+modify, and self-host, but do not use it to provide a product that competes with Nextendo Network.
